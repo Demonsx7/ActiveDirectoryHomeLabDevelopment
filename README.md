@@ -10,11 +10,16 @@ This project shows how to set up and configure an entire Active Directory (AD) H
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VirtualBox</b>
+- <b>Active Directory Domain Services (AD DS)</b>
+- <b>DNS server</b>
+- <b>DHCP server</b>
+- <b>Active Directory Users and Computers (ADUC) / Group Policy tools</b>
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows Server 2025</b> (24H2)
 
 <h2>Program walk-through:</h2>
 
